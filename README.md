@@ -1,3 +1,6 @@
+> **_NOTE:_**  The project is maintained by [@theapexlab](https://github.com/theapexlab) in the future, the repo was moved [here](https://github.com/theapexlab/apex-dex)
+
+
 # DEX application
 
 ## About the project
